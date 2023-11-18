@@ -1,0 +1,19 @@
+
+h2,h1{
+    text-align: center;
+    padding: 1.5%;
+}
+
+.redesignbutton{
+text-decoration: none;
+color: white;
+background-color: rgb(111, 111, 111);
+font-style: normal;
+font-weight: 300;
+padding: 15px 10px 15px 10px;
+border-radius: 15px;
+}
+
+a:hover{
+    color: blueviolet !important;
+}
